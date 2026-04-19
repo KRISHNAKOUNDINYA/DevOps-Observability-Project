@@ -8,6 +8,7 @@ Python Flask App
 Prometheus
 Grafana
 Node Exporter
+
 🏗 Architecture
 
 Flask App → Node Exporter → Prometheus → Grafana
