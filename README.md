@@ -23,8 +23,8 @@ Update:
  region
 
 3. Deploy Infra
-terraform init
-terraform apply
+ terraform init
+ terraform apply
 
 4. Access Services
   Service	URL
